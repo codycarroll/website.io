@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: ''
+publication: PLoSOne
 publication_short: ""
 publication_types:
 - "2"
@@ -22,7 +22,7 @@ slides:
 summary: 
 tags: 
 - Source Themes
-title: Mountaineers in an Extreme Environment, An update on effects of age and sex on rates of success and death on Mount Everest (Preprint)
+title: Mountaineers on Mount Everest, effects of age, sex, prior experience, and crowding on rates of success and death
 url_code: ""
 url_dataset: ""
 url_pdf: ""
@@ -41,4 +41,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+

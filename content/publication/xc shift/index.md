@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: ''
+publication: Biometrics
 publication_short: ""
 publication_types:
 - "2"
@@ -21,7 +21,7 @@ slides:
 summary: 
 tags: 
 - Source Themes
-title: Cross-Component Registration for Multivariate Functional Data, with Application to Growth Curves (Under Review)
+title: Cross-Component Registration for Multivariate Functional Data, with Application to Growth Curves 
 url_code: ""
 url_dataset: ""
 url_pdf: https://arxiv.org/pdf/1811.01429
@@ -40,4 +40,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
