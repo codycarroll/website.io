@@ -4,7 +4,7 @@ authors:
 - admin
 - Hans-Georg Müller
 - Alois Kneip
-date: "2020-04-01T00:00:00Z"
+date: "2020-07-25T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: Biometrics
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2020-07-25T00:00:00Z"
 slides: 
 summary: 
 tags: 
@@ -24,7 +24,7 @@ tags:
 title: Cross-Component Registration for Multivariate Functional Data, with Application to Growth Curves 
 url_code: ""
 url_dataset: ""
-url_pdf: https://arxiv.org/pdf/1811.01429
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13340
 url_poster: ""
 url_project: ""
 url_slides: ""

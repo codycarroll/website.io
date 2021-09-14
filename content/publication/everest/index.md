@@ -17,7 +17,7 @@ publication: PLoSOne
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2020-08-25T00:00:00Z"
 slides: 
 summary: 
 tags: 
@@ -25,7 +25,7 @@ tags:
 title: Mountaineers on Mount Everest, effects of age, sex, prior experience, and crowding on rates of success and death
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0236919&type=printable"
 url_poster: ""
 url_project: ""
 url_slides: ""
