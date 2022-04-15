@@ -30,7 +30,7 @@ tags:
 title: Time Dynamics of COVID-19 
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.medrxiv.org/content/10.1101/2020.05.21.20109405v1.full.pdf
+url_pdf: https://www.nature.com/articles/s41598-020-77709-4
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -33,7 +33,7 @@ social:
   link: https://twitter.com/codycarr0ll
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=OaFOR9UAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=OaFOR9UAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/codycarroll
@@ -43,11 +43,13 @@ user_groups:
 - Visitors
 ---
 
-I received my PhD in Statistics under [Prof. Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) at UC Davis. Broadly, I am interested in the treatment of complex-structured data whose geometries thwart traditional, off-the-shelf statistical methods. In particular I am attracted to questions concerning functional data, especially when the functions are multivariate, contaminated by warping, or subject to constraints, as in the case of densities or monotonic curves. In my PhD I explored new methods for time warping problems and introduced models which quantify intercomponent time dynamics for multivariate functional data. I am also a contributor and past maintainer of the R package [fdapace](https://cran.r-project.org/web/packages/fdapace/index.html). 
+I received my PhD in Statistics under [Prof. Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) at UC Davis. Broadly, I am interested in the treatment of complex-structured data whose geometries thwart traditional, off-the-shelf statistical methods. In particular I am attracted to questions concerning functional data, especially when the functions are multivariate, contaminated by warping, or subject to constraints, as in the case of densities or monotonic curves. I am also a contributor and past maintainer of the R package [fdapace](https://cran.r-project.org/web/packages/fdapace/index.html). 
 
-Beyond developing methodology, I'm also a fan of working as a statistical consultant in my research. I like finding intuitive and creative ways of conveying results and breaking through the "language barrier" between statisticians and other scientists. My applied collaborations span a wide variety of domains, ranging from veterinary science to mountaineering to neuroimaging. 
+A motivating example for much of my work arises in the study of human growth curves, in which several body measurements are tracked from infancy to adulthood. In my PhD, my methodological projects involved identifying systematic phase variation in growth spurts across both individuals and different modalities of growth (e.g. arms, legs, spine). My research approaches this problem by exploring models which can quantify intercomponent time dynamics for multivariate functional data, like time warping and time shifting frameworks. 
 
-With much of my working time spent behind a computer screen, I find a lot of value in connecting to the natural world when I have the chance. In free moments you'll probably find me on a trail, in a river, or road tripping along the coast of Northern California.
+Beyond developing methodology, I'm also a fan of working as a statistical consultant in my research. I like finding intuitive and creative ways of conveying results and breaking through the "language barrier" between statisticians and other scientists. My applied collaborations span a wide variety of domains: in the past I've collaborated with  neuroscientists from the Bill & Melinda Gates Foundation, veterinarians from the San Diego Zoo, and the researchers behind Mt. Everest's Himalayan Database, to name a few.
+
+With much of my working time spent behind a computer screen, I find a lot of value in connecting to the natural world when I have the chance. In free moments you'll probably find me on a trail, in a river, or road tripping around wherever I am at the current moment.
 
 <!--- Since coming to Davis I've become somewhat of an amateur naturalist and developed an interest in citizen science projects. --->
 

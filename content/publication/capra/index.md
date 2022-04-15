@@ -7,7 +7,7 @@ authors:
 - admin
 - Meredith M. Clancy
 - Lauren L. Howard
-date: "2020-04-01T00:00:00Z"
+date: "2021-04-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -19,7 +19,7 @@ publication: Journal of Zoo and Wildlife Medicine
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-08-26T00:00:00Z"
+publishDate: "2021-03-26T00:00:00Z"
 slides: 
 summary: 
 tags: 
