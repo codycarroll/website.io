@@ -43,9 +43,9 @@ user_groups:
 - Visitors
 ---
 
-I'm currently an Adjunct Professor in Statistics at UC Davis. In fall, I will join the University of San Francisco as an assistant professor, with joint appointments between Math and Statistics and the Masters in Data Science Program. 
+I'm currently an assistant professor at the University of San Francisco, with joint appointments between Math and Statistics and the Masters in Data Science Program. 
 
-I received my PhD in Statistics under [Prof. Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) at UC Davis. Broadly, I am interested in the treatment of complex-structured data whose geometries thwart traditional, off-the-shelf statistical methods. In particular I am attracted to questions concerning functional data, especially when the functions are multivariate, contaminated by warping, or subject to constraints, as in the case of densities or monotonic curves. I am also a contributor and past maintainer of the R package [fdapace](https://cran.r-project.org/web/packages/fdapace/index.html). 
+I received my PhD in Statistics at UC Davis while working with [Prof. Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Broadly, I am interested in the treatment of complex-structured data whose geometries thwart traditional, off-the-shelf statistical methods. In particular I am attracted to questions concerning functional data, especially when the functions are multivariate, contaminated by warping, or subject to constraints, as in the case of densities or monotonic curves. I am also a contributor and past maintainer of the R package [fdapace](https://cran.r-project.org/web/packages/fdapace/index.html). 
 
 A motivating example for much of my work arises in the study of human growth curves, in which several body measurements are tracked from infancy to adulthood. In my PhD, my methodological projects involved identifying systematic phase variation in growth spurts across both individuals and different modalities of growth (e.g. arms, legs, spine). My research approaches this problem by exploring models which can quantify intercomponent time dynamics for multivariate functional data, like time warping and time shifting frameworks. 
 
