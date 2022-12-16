@@ -43,7 +43,7 @@ user_groups:
 - Visitors
 ---
 
-I'm currently an assistant professor at the University of San Francisco, with joint appointments between Math and Statistics and the M.S. in Data Science Program. 
+I'm currently an assistant professor at the University of San Francisco, with joint appointments between the Math the Statistics department and the M.S. in Data Science Program. 
 
 I received my PhD in Statistics at UC Davis while working with [Prof. Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Broadly, I am interested in the treatment of complex structured data whose geometries thwart traditional, off-the-shelf statistical methods. In particular I am attracted to questions concerning functional data, especially when the functions are multivariate, contaminated by warping, or subject to constraints, as in the case of densities or monotonic curves. I am also a contributor and past maintainer of the R package [fdapace](https://cran.r-project.org/web/packages/fdapace/index.html). 
 
